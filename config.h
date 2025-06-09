@@ -6,13 +6,13 @@ static const unsigned int snap      = 32;       /* snap pixel */
 static const unsigned int gappx     = 6;
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { ":JetBrainsMono Nerd:size=24" };
+static const char *fonts[]          = { "JetBrainsMono Nerd:size=24", "Twemoji:size=24"};
 static const char dmenufont[]       = "JetBrainsMono Nerd:size=24";
-//static const char col_gray1[]       = "#222222";
-//static const char col_gray2[]       = "#444444";
-//static const char col_gray3[]       = "#bbbbbb";
-//static const char col_gray4[]       = "#eeeeee";
-//static const char col_cyan[]        = "#005577";
+/* static const char col_gray1[]       = "#222222";
+static const char col_gray2[]       = "#444444";
+static const char col_gray3[]       = "#bbbbbb";
+static const char col_gray4[]       = "#eeeeee";
+static const char col_cyan[]        = "#005577"; */
 static const char norm_fg[]           = "#f1ebe6";
 static const char norm_bg[]           = "#1a1e22";
 static const char norm_border[]       = "#737373";
