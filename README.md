@@ -1,4 +1,7 @@
 # My dwm fork
+## PREVIEW
+![desktop](screenshots/2025-09-18_12-57-20.png)
+![desktop with apps](screenshots/2025-09-18_12-56-40.png)
 ## PATCHES
 - pertag
 - fullgaps
